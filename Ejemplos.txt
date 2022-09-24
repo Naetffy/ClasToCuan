@@ -1,0 +1,64 @@
+Ejemplo experimento 1:
+Ingresar estos datos  a la hora de ejcutar el Experimento(1).py para simular el expermiento del
+Capitulo 3.1 (Libro:"Quantum computing for computer scientist"),Example 3.1.3
+6
+6
+2
+1
+5
+3
+10
+-1
+-1
+1
+5
+-1
+3
+-1
+2
+-1
+4
+0
+-1
+2
+Ejemplo experimento 2:
+Ingresar estos datos  a la hora de ejcutar el Experimento(2).py para simular el expermiento del
+Capitulo 3.2 (Libro:"Quantum computing for computer scientist"),Figura 3.1
+2
+5
+0.33
+0
+0.33
+0
+0.33
+0.33
+0
+0.33
+0
+0.33
+2
+Ejemplo experimento 2:
+Ingresar estos datos  a la hora de ejcutar el Experimento(3).py para simular el expermiento del
+Capitulo 3.3 (Libro:"Quantum computing for computer scientist"),Figura 3.2
+2
+5
+-0.408
+0.408
+0
+0
+-0.408
+-0.408
+0
+0
+0.408
+-0.408
+-0.408
+0.408
+0
+0
+-0.408
+-0.408
+0
+0
+0.408
+-0.408
